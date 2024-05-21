@@ -5,7 +5,7 @@ In this file for watching our API we can use routers.DefaultRouter() that can fo
 
 ### Model
 __Model__ is a file that we use to save our data in database.
-We use _str_ because we want to see just the name of the course instead of other bullshits.
+We use _/str/_ because we want to see just the name of the course instead of other bullshits.
 
 ### Admin
 __Admin__ is a file that we have to set that to have access to our database via admin page.
